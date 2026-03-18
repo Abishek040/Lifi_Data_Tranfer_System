@@ -21,7 +21,6 @@ A smartphone torch with a Morse code app is used as the transmitter, and an LDR 
 - 🔋 12V Adapter
 - 🔧 Buck Converter (Step-down to 5V)
 - 🔘 Reset Button
-- 🔩 Resistors
 - 🔌 Breadboard & Connecting Wires
 
 ---
