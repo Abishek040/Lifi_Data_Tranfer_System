@@ -52,7 +52,7 @@ A smartphone torch with a Morse code app is used as the transmitter, and an LDR 
 
 The receiver is implemented using Arduino Nano and LDR sensor.
 
-👉 [View Arduino Code](lifi_receiver.ino)
+👉 [View Arduino Code](lifi_reciver.ino)
 
 ---
 
